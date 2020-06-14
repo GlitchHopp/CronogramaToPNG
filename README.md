@@ -12,7 +12,7 @@ Requisitos de los cronogramas a convertir:
 
 -El cronograma tiene que ser legible en fuentes monospace.
 
--Tiene que tener los instantes de tiempo marcados en una linea inmediatamente inferior a la línea con este patron: '|___|___|...'. De lo contrario, la funcion "calculaEspaciosDeTiempo" no funcionará
+-Tiene que tener los instantes de tiempo marcados en la linea inmediatamente inferior a la que lleva las barras bajas. De lo contrario, la funcion "calculaEspaciosDeTiempo" no funcionará
 
 -Todos los procesos escritos a la izquierda de la gráfica tienen que empezar con p (por ejemplo p1, Pa, P2...)
     
