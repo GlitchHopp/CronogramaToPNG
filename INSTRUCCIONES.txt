@@ -1,0 +1,15 @@
+-Necesita python3 y pillow (python3 -m pip install Pillow)
+
+-Para ejecutar: 
+
+python3 script.py nombreArchivo.txt
+
+Los requisitos para el cronograma son:
+
+    -Tiene que tener los instantes de tiempo marcados en una linea inmediatamente inferior a la línea con este patron: "|___|___|..."
+
+    -Todos los procesos escritos a la izquierda de la gráfica tienen que empezar con p (por ejemplo p1, Pa, P2...)
+    
+    -Los bloqueos tienen que marcarse con una B, y las intervenciones del planificador con una P o una X, lo comienzos de proceso con un < y los finales con un >, y el uso del procesador se marcará con -
+    
+
