@@ -2,9 +2,11 @@
 Script de python que convierte un archivo de texto con un cronograma hecho de caracteres ASCII a una gráfica en PNG 
 
 Requiere Pillow. Para instalar Pillow:
+
 python3 -m pip install Pillow
 
 Para ejecutarlo:
+
 python3 script.py cronograma_ejemplo.txt
 (Sustituyendo cronograma_ejemplo por la ruta del archivo de texto a convertir)
 
